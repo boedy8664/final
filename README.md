@@ -11,10 +11,10 @@ control.py for receive information from xbee
 main for my openMV code
 
 ## My design
-Follow the line first.
-Navigation by apriltag.
-Follow the line again.
-Navigation by april tag and stop
+1. Follow the line first.
+2. Navigation by apriltag.
+3. Follow the line again.
+4. Navigation by april tag and stop
 
 ## Application
 xbee for transport some information and show the step information on screen
