@@ -17,7 +17,7 @@ main for my openMV code
 4. Navigation by april tag and stop
 
 ## Application
--[xbee for transport some information and show the step information on screen](#heading-one)
--[line following](#heading-two)
--[april tag for location identification](#heading-three)
--[openMV processing](#heading-four)
+- [xbee for transport some information and show the step information on screen](#heading-one)
+- [line following](#heading-two)
+- [april tag for location identification](#heading-three)
+- [openMV processing](#heading-four)
